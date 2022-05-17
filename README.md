@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carmenyo&label=Profile%20views&color=0e75b6&style=flat" alt="carmenyo" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carmenyo" alt="carmenyo" /></a> </p>
-
 - 🔭 I’m currently working on **improve my skills in front-end Development**
 
 - 📫 How to reach me **carmencastroyo@gmail.com**
