@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carmen</h1>
-<h3 align="center">A passionate Jr frontend developer from Spain but living in Bucharest</h3>
+<h3 align="center">A passionate Jr Front-End Developer from Spain but living in Bucharest</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carmenyo&label=Profile%20views&color=0e75b6&style=flat" alt="carmenyo" /> </p>
 
