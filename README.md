@@ -6,7 +6,10 @@
 </p>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=carmenyotheme=algolia" alt="carmen"  /></p>
+
+ <br/>
+   <a href="https://github.com/carmenyo"><img alt="Carmen's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=carmenyo&custom_title=Carmen%20's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
 
 
 
@@ -101,10 +104,7 @@
 
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/carmenyo"><img alt="Carmen's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=carmenyo&custom_title=Carmen%20's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
+ 
 </details>
 
 <br/>
