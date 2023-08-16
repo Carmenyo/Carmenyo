@@ -7,9 +7,9 @@
 
 ## 🔥 Streak Stats
 
- <br/>
-   <a href="https://github.com/carmenyo"><img alt="Carmen's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=carmenyo&custom_title=Carmen%20's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carmenyo" alt="GitHub Streak"/>
+</p>
 
 
 
@@ -81,9 +81,7 @@
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="50" height="50"/> </a> 
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carmenyo" alt="GitHub Streak"/>
-</p>
+
 
 ## 📊 Github Stats (Expand to View) 
 
