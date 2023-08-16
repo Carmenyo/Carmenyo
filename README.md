@@ -1,8 +1,6 @@
 <h1 align="center">Hi there! 👋 I'm Carmen</h1>
 <h3 align="center">Passionate Jr Front-End Developer from Spain, currently based in Bucharest, I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=carmenyolabel=Profile%20views&color=0e75b6&style=plastic" alt="Carmenyo" /> </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=carmenyo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
