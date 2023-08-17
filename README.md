@@ -46,8 +46,9 @@
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 </p>
-	
-  ###💻 GitHub Profile Stats
+
+## 💻 GitHub Profile Stats
+
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Carmen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=carmenyo&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=carmenyo&show_icons=true&locale=en&layout=compact&theme=algolia" alt="carmen" height="192px"/>
