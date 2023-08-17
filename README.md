@@ -60,16 +60,12 @@
 <br/>
 
 ## 🙋‍♀️ Let's Connect
-<p align="center">
-	<a href="mailto:carmencastroyo@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/carmenyo"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://linkedin.com/carmen-castro-yo"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	
+<p align="left">
+<a href="https://linkedin.com/in/carmen-castro-yo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carmen-castro-yo" height="30" width="40" /></a>
 </p>
 
-<hr/>
 
-<h1 align="center">Hi 👋, I'm Carmen</h1>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carmencastro&label=Profile%20views&color=0e75b6&style=flat" alt="carmencastro" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carmencastro" alt="carmencastro" /></a> </p>
@@ -77,9 +73,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/carmen-castro-yo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carmen-castro-yo" height="30" width="40" /></a>
-</p>
+
 
 
  
