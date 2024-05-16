@@ -1,4 +1,6 @@
-![Banner](https://github.com/Carmenyo/Cybersecurity-Portfolio/blob/main/images/BannerPresentUltraStrech.png)
+<div align="center">
+  <img src="https://github.com/Carmenyo/Cybersecurity-Portfolio/blob/main/images/BannerPresentUltraStrech.png" alt="Banner">
+</div>
 
 <h1 align="center">Hi there! 👋 I'm Carmen</h1>
 <h3 align="center">Passionate Jr Front-End Developer from Spain, currently based in Bucharest, I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h3>
