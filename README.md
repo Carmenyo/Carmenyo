@@ -2,7 +2,7 @@
   <img src="https://github.com/Carmenyo/Cybersecurity-Portfolio/blob/main/images/BannerPresentUltraStrech.png" alt="Banner">
 </div>
 
-<h3 align="center">Passionate Jr Front-End Developer from Spain, currently based in Bucharest, I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h3>
+<h3 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 300; color: #7f7f7f;">Passionate Jr Front-End Developer from Spain, currently based in Bucharest, I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=carmenyo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
